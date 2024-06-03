@@ -8,8 +8,8 @@
 
 ## System Requirements
 
-- Node.js 10 or later
-- MacOS, Windows (including WSL), and Linux are supported
+- Node.js 10 or later.
+- MacOS, Windows (including WSL), and Linux are supported.
 
 ## Setup
 
@@ -26,7 +26,7 @@ Install dependencies:
 $ npm install
 ```
 
-Create a Revolut Business sandbox account https://sandbox-business.revolut.com
+Create a Revolut Business sandbox account https://sandbox-business.revolut.com.
 
 Run dev server (replace `XXXX` with api token from https://sandbox-business.revolut.com/merchant/api):
 
@@ -34,7 +34,7 @@ Run dev server (replace `XXXX` with api token from https://sandbox-business.revo
 $ REVOLUT_API_KEY=XXXX npm run dev
 ```
 
-Open web browser: http://localhost:3000
+Open web browser: http://localhost:3000.
 
 ## Documentation
 
@@ -42,7 +42,7 @@ Read more in our official [developer portal](https://developer.revolut.com/docs/
 
 ## Related
 
-- [`@revolut/checkout`](https://github.com/revolut-engineering/revolut-checkout) - RevolutCheckout.js as npm module
+- [`@revolut/checkout`](https://github.com/revolut-engineering/revolut-checkout) - RevolutCheckout.js as npm module.
 
 ---
 
